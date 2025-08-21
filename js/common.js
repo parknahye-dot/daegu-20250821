@@ -6,9 +6,9 @@ const UI = (() => {
   const buttons = [
     {
       id: "copy-btn",
-      label: "복사 기능", // ← 라벨 JS에서 설정
+      label: "안녕하세요....", // ← 라벨 JS에서 설정
       className:
-        "px-4 py-2 bg-yellow-600 text-white rounded-lg hover:bg-purple-700 transition",
+        "px-8 py-8 bg-yellow-600 text-white rounded-lg hover:bg-purple-700 transition",
       onClick: () => copyTemplate("이 텍스트가 복사됩니다!")
     }
   ];

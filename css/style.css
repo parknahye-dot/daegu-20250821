@@ -187,5 +187,9 @@ textarea {
 }
 
 .bg-custom-pd-200{
-    padding:200px;
+    padding:0px;
+}
+
+.box-yellow-200{
+    width:200px;height:200px;background:#e5e909;
 }

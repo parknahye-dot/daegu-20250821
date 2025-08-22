@@ -1,4 +1,4 @@
-## kakao map key 와 샘플 repo 입니다..
+## kakao map key 와 샘플 repo 입니다...
 
 ### https://github.com/yejeeni/Must-go-Restaurant-Map
 
